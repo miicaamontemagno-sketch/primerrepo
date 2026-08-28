@@ -4,4 +4,5 @@ git init
 crea un repositorio de git en el proyecto donde se ejecuta
 git add .
 añade los archivos al repositorio de git
- 
+git commit -m "mensaje descriptivo"
+versionar los cambios añadidos 
