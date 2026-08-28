@@ -1,0 +1,7 @@
+pasos para crear un repositorio
+
+git init
+crea un repositorio de git en el proyecto donde se ejecuta
+git add .
+añade los archivos al repositorio de git
+ 
