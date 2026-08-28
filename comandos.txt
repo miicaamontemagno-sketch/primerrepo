@@ -6,3 +6,7 @@ git add .
 añade los archivos al repositorio de git
 git commit -m "mensaje descriptivo"
 versionar los cambios añadidos 
+
+comandos git:
+git status
+da un status del repositorioes como preguntarle a tu asesor financiero. Todo esta bien? o como anda todo?
