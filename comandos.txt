@@ -9,4 +9,14 @@ versionar los cambios añadidos
 
 comandos git:
 git status
-da un status del repositorioes como preguntarle a tu asesor financiero. Todo esta bien? o como anda todo?
+  da un status del repositorioes como preguntarle a tu asesor financiero. Todo esta bien? o como anda todo?
+git branch -M main
+  Renombrar la rama principal 
+git remote add origin  "https://github.com/miicaamontemagno-sketch/primerrepo.git"
+  añadir una direccion remota(direccion de repositorio) a nuestro repositorio local
+git remote set-url origin <direccion del repositorio en la nube>
+  modificar la direccion remota de nuestro repositorio en la nube
+Para actualizar un repositorio y subir otro commit 
+  git add
+  git commit -m ¨mensaje¨
+  git push
